@@ -1,0 +1,23 @@
+{
+  "name": "hellobower",
+  "version": "1.0.0",
+  "description": "first bower",
+  "main": "hellobower.js",
+  "keywords": [
+    "bower",
+    "first"
+  ],
+  "authors": [
+    "yinqiao"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yinqiao/bower",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
